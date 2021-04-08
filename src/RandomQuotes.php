@@ -20,4 +20,4 @@ public function getRandomQuotes() {
     public function generate(){
     return $this->getRandomQuotes();
     }
-}
+} 
