@@ -14,5 +14,11 @@
             "RandomQuotes\\" : "src/"
         }
     },
+    "extra": {
+        "installer-paths": {
+            "wp-content/mu-plugins/the-quotes/": [
+                "wpackagist-plugin/akismet"
+            ]
+        }
     "require": {}
 }
