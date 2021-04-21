@@ -16,9 +16,9 @@
     },
     "extra": {
         "installer-paths": {
-            "wp-content/mu-plugins/the-quotes/": [
-                "wpackagist-plugin/akismet"
-            ]
+            "wp-content/plugins/": ["type:wordpress-plugin"]
         }
+    }
+
   
 }
