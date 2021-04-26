@@ -2,10 +2,11 @@
     "name": "tomasa90/php-compose-random-quote",
     "description": "this library is for learning purposes only, it outputs a random quote",
      "type": "wordpress-plugin",
+        "license":"MIT",
     "require": {
         "composer/installers": "~1.0"
-    }
-    "license":"MIT",
+    },
+
     "authors": [
         {
             "name": "tomasa90",
