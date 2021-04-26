@@ -9,14 +9,13 @@
             "email": "tomasa90@gmail.com"
         }
     ],
-    {
+    
     "repositories":[
         {
             "type":"composer",
             "url":"https://wpackagist.org"
         }
-    ]
-},
+    ],
     "autoload": {
         "psr-4": {
             "RandomQuotes\\" : "src/"
