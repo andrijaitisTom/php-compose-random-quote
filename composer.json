@@ -17,11 +17,7 @@
         "psr-4": {
             "RandomQuotes\\" : "src/"
         }
-       },
-     "extra": {
-        "installer-paths": {
-            "wp-content/plugins/": ["type:wordpress-plugin"]
-        }
+       }
     },
     "require": {}
 }
