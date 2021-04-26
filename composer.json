@@ -12,7 +12,15 @@
     "autoload": {
         "psr-4": {
             "RandomQuotes\\" : "src/"
+        },
+        {
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
         }
+    ]
+}
     },
      "extra": {
         "installer-paths": {
