@@ -1,5 +1,5 @@
 {
-    "name": "plugins/php-compose-random-quote",
+    "name": "tomasa90/php-compose-random-quote",
     "description": "this library is for learning purposes only, it outputs a random quote",
      "type": "wordpress-plugin",
         "license":"MIT",
