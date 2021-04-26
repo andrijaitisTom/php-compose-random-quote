@@ -9,19 +9,19 @@
             "email": "tomasa90@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "RandomQuotes\\" : "src/"
-        },
-        {
+    {
     "repositories":[
         {
             "type":"composer",
             "url":"https://wpackagist.org"
         }
     ]
-}
-    },
+},
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\" : "src/"
+        }
+       },
      "extra": {
         "installer-paths": {
             "wp-content/plugins/": ["type:wordpress-plugin"]
