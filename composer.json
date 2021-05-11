@@ -19,13 +19,7 @@
         }
        },
     "require": {}
-    ,
-    "extra": {
-        "installer-paths": {
-            "sites/example.com/modules/{$name}": ["nategood/httpful"],
-            "sites/example.com/themes/{$name}": ["type:library"]
-        }
-    }
+   
 
 }
 
