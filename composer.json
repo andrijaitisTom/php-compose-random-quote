@@ -1,7 +1,7 @@
 {
     "name": "tomasa90/php-compose-quote",
     "description": "this library is for learning purposes only, it outputs a random quote",
-     "type": "wordpress-plugin",
+     "type": "library",
         "license":"MIT",
     "require": {
         "composer/installers": "~1.0"
@@ -17,8 +17,7 @@
         "psr-4": {
             "RandomQuotes\\" : "src/"
         }
-       }
-    },
+       },
     "require": {}
 }
 
