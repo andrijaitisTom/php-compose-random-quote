@@ -17,10 +17,7 @@
         "psr-4": {
             "RandomQuotes\\" : "src/"
         }
-       },
-    "require": {
-        "composer/installers": "^1.11"
-    }
+       }
    
 
 }
